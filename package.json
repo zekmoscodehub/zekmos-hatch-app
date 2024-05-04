@@ -1,0 +1,42 @@
+{
+  "name": "zekmos_hatchapp",
+  "version": "1.0.0",
+  "description": "A perfect app for hatching services, It keeps records, give reminder and notifications on the status of your eggs in the incubator.",
+  "main": "app.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "zekmos-hatch-app"
+  },
+  "keywords": [
+    "A",
+    "perfect",
+    "app",
+    "for",
+    "hatching",
+    "services",
+    "It",
+    "keeps",
+    "records",
+    "give",
+    "reminder",
+    "and",
+    "notifications",
+    "on",
+    "the",
+    "status",
+    "of",
+    "your",
+    "eggs",
+    "in",
+    "the",
+    "incubator."
+  ],
+  "author": "Zekmos Code Hub",
+  "license": "ISC",
+  "dependencies": {
+    "composer": "^4.1.0"
+  }
+}
